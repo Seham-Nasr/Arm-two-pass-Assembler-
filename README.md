@@ -14,3 +14,4 @@ The second pass output two machine code the object code and listing.
 The two-pass assembler and GUI is implemented in Python, since Python
 is a nifty language with a lot of text-processing and string-matching tools
 and it’s ease in the Portability of programs.
+for more explanation, read the project's wiki
